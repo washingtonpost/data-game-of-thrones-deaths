@@ -45,13 +45,13 @@ The importance level of a character is determined by his/her/its significance to
 
 	- In cases like the Massacre at Hardhome, normal human standards are applied to wights to simplify the process. In other words, an arrow through the skull or a sword through the spine counts as a death, even though officially speaking, a wight is never killed unless burned or stabbed with dragonglass.
 
-- Season 6 unotes:
+- Season 6 notes:
 
 	- If a character dies but is brought back to life (e.g. Jon Snow), the death count stands and the revival is counted as a “second life.” Temporary deaths like Euron Greyjoy’s drowning ceremony are not counted. Beric Dondarrion has been added to the death count as a result of this rule. Gregor Clegane has not been added because it is unclear whether he died off-screen and was then reanimated, or was “altered” while still alive.
 
 	- For the Battle of the Bastards, it is often unclear which side a dying soldier belongs to. Educated guesses are made based on the shape of the helmets (Bolton soldiers had pointier helmets) and sigils that can be seen on armor.
 
-- Season 8 unotes:
+- Season 8 notes:
 
     - Because dragonfire covers up the things it burns, educated guesses are made based on approximately the size of the dragonfire’s area of attack. For example, if the fire is about 11 people wide and 2 people deep, we would multiply 11 by 2 to get 22 people. We also assume that the fire only kills enemies and not allies by accident, though we can’t be sure.
 
